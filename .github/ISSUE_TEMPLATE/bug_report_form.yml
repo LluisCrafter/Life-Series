@@ -6,7 +6,7 @@ body:
       value: |
         Welcome! This is a form that allows you to write a bug report through a form rather than manually.
   - type: input
-    id: minecraft-version
+    id: minecraft_version
     attributes:
       label: Minecraft version
       placeholder: |
@@ -14,7 +14,7 @@ body:
     validations:
       required: true
   - type: input
-    id: datapack-version
+    id: datapack_version
     attributes:
       label: Data pack version
       placeholder: |
