@@ -1,5 +1,5 @@
-name: "Bug report (form)"
-description: "Report something that is not working through a form."
+name: Bug report (form)
+description: Report something that is not working through a form
 body:
   - type: markdown
     attributes:
@@ -10,7 +10,7 @@ body:
     attributes:
       label: Minecraft version
       placeholder: |
-        "e.g. 1.21.4"
+        e.g. 1.21.4
     validations:
       required: true
   - type: input
@@ -18,14 +18,14 @@ body:
     attributes:
       label: Data pack version
       placeholder: |
-        "e.g. v2.2.0"
+        e.g. v2.2.0
     validations:
       required: true
   - type: textarea
     id: description
     attributes:
       label: Description
-      description: "Please explain exacly what the bug is and how did you encounter it."
+      description: Please explain exacly what the bug is and how did you encounter it.
       placeholder: |
         e.g. When I execute a certain function, it doesn't do anyting.
     validations:
