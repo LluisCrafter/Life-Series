@@ -25,7 +25,7 @@ body:
     id: description
     attributes:
       label: Description
-      description: Please explain exacly what the bug is and how did you encounter it.
+      description: Please explain exacly what the bug is and how did you encounter it. You are welcome to add screenshots or videos.
       placeholder: |
         e.g. When I execute a certain function, it doesn't do anyting.
     validations:
