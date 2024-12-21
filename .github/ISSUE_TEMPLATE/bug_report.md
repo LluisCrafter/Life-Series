@@ -1,0 +1,17 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: bug
+assignees: LluisJM
+
+---
+
+These indications are just a suggestion. You can format this however you want!
+
+**Describe the bug**
+What doesn't work? How did you encounter this error?
+
+**Which version are you using?**
+ - Minecraft version: [e.g.: 1.21.4]
+ - Datapack version: [e.g.: v2.2.0]
