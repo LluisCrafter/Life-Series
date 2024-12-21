@@ -2,8 +2,9 @@ name: "Bug Report"
 description: "Report something that is not working through a form."
 body:
   - type: markdown
-    attributes: |
-      Welcome! This is a form that allows you to
+    attributes:
+      value: |
+        Welcome! This is a form that allows you to
   - type: input
     id: minecraft-version
     attributes:
