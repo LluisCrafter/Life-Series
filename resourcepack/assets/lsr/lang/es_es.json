@@ -44,5 +44,7 @@
     "lsr.menu.credits.developers.title": "Desarrolladores",
     "lsr.menu.credits.testers.title": "Probadores",
     "lsr.menu.button.stop_game": "Detener el juego",
-    "lsr.menu.credits.translators.title": "Traductores"
+    "lsr.menu.credits.translators.title": "Traductores",
+    "lsr.life.add.fail.max": "No se te ha dado ninguna vida, ya que ya has llegado al máximo.",
+    "lsr.life.add.success": "Se te ha dado una vida."
 }
