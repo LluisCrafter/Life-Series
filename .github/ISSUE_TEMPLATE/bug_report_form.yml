@@ -5,6 +5,15 @@ body:
     attributes:
       value: |
         Welcome! This is a form that allows you to write a bug report through a form rather than manually.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please explain exacly what the bug is and how did you encounter it. You are welcome to add screenshots or videos.
+      placeholder: |
+        e.g. When I execute a certain function, it doesn't do anyting.
+    validations:
+      required: true
   - type: input
     id: minecraft_version
     attributes:
@@ -19,15 +28,6 @@ body:
       label: Data pack version
       placeholder: |
         e.g. v2.2.0
-    validations:
-      required: true
-  - type: textarea
-    id: description
-    attributes:
-      label: Description
-      description: Please explain exacly what the bug is and how did you encounter it. You are welcome to add screenshots or videos.
-      placeholder: |
-        e.g. When I execute a certain function, it doesn't do anyting.
     validations:
       required: true
 assignees: LluisJM
