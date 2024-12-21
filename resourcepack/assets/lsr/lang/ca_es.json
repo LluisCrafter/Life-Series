@@ -44,5 +44,7 @@
     "lsr.menu.credits.developers.title": "Desenvolupadors",
     "lsr.menu.credits.testers.title": "Provadors",
     "lsr.menu.button.stop_game": "Aturar el joc",
-    "lsr.menu.credits.translators.title": "Traductors"
+    "lsr.menu.credits.translators.title": "Traductors",
+    "lsr.life.add.fail.max": "No se't poden afegir més vides, ja que ja s'ha arribat al màxim.",
+    "lsr.life.add.success": "S'he t'ha donat una vida."
 }
